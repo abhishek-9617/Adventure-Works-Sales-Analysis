@@ -33,7 +33,17 @@ Power BI- Adventure Works Project/
 │   └── plots
 
 ```
+## 🖼️ Dashboard Preview
 
+![Home Page](outputs/plots/Homepage.png)
+
+![Category Analysis 1](outputs/plots/category_analysis1.png)
+
+![Category Analysis 2](outputs/plots/category_analysis2.png)
+
+![Product Analysis](outputs/plots/product_analysis.png)
+
+![Customer Analysis](outputs/plots/customer_analysis.png)
 
 ---
 
