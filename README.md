@@ -85,4 +85,4 @@ Power BI- Adventure Works Project/
 ## 📌 Author
 
 **Abhishek Bhardwaj**  
-[LinkedIn]((https://www.linkedin.com/in/abhishekbhardwaj28) | [GitHub](https://github.com/abhishek-9617)
+[LinkedIn](https://www.linkedin.com/in/abhishekbhardwaj28) | [GitHub](https://github.com/abhishek-9617)
