@@ -29,6 +29,8 @@ Power BI- Adventure Works Project/
 ├── 🖼️ Assets/
 │ ├── AdventureWorks_Logo.png
 │ └── AdventureWorksLogo.jpg
+├── outputs/
+│   └── plots
 
 ```
 
